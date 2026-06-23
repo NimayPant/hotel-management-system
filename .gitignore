@@ -1,0 +1,6 @@
+target/
+.vscode/
+hotel.db
+*.dat
+System_Log_Export.csv
+activity_log.txt
